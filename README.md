@@ -1,9 +1,4 @@
-# Ex02-OS-Linux-Process API - fork(), wait(), exec()
-Operating systems Lab exercise 
-
-Developed by : VINODINI R
-
-Register Number : 212223040244
+## OS-Linux-Process API - fork(), wait(), exec()
 
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
